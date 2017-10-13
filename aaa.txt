@@ -89,3 +89,8 @@ Rebaseする時にマージしてください。
 ヘルプを見る
 >> config --help
 >> help config
+
+Gitの宿題です。2-3行を消して新しい文字を追加します。
+GitのForkを進行 → Forkされた自分のレポジトリをCloneする。→
+git checkout -b bugfix/issue#1_jeon コマンドを入力してブランチ生成。
+→ファイル修正する。
