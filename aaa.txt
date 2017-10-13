@@ -6,17 +6,16 @@
 >> git commit "コミット名"
 コミットメッセージを１行以内に納める
 >> git commit -m "コミット名"
-一つ前のコミットと統合する
+外は雨が降っています。一つ前のコミットと統合する
 >> git commit --amend -m "コミット名"
-gitのログを確認する
+これからもっと寒くなるでしょう。
 >> git log
 Gitのlogを簡潔にまとめて表示する
 >> git log --oneline
-オプション
-git log --oneline
-git log -p(変更した場所を見たい場合)
-git log --stat(より詳しく変更した場所を見たい場合)
 
+冬用コート買わなければなりません。
+git log -p(変更した場所を見たい場合)
+git log --stat(より詳しく変更した場所を
 現在の状態
 >> git status
 前の状態に戻る
