@@ -267,3 +267,7 @@ $ git config --global user.email [email address]
 
 $ git config --global color.ui auto
 出力結果を色づけする.
+
+パターン勉強をする時、クラスことにファイルを分けて勉強する。
+TwitterのAPIを予習します。
+Swiftのクローザーの部分をもっと勉強します。
