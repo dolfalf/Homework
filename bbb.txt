@@ -1,24 +1,24 @@
 基本的なgitコマンドまとめ。
 そもそも自分用に作ったものなので見づらいです。
 
+日本の地下鉄の乗り方は難しいです。
 init
-$ git init
+git init
 ディレクトリにリポジトリを作成.
 
-$ git init --bare
+t init --bare
 ベアリポジトリの作成
 
 $ git init --shared
-グループ書き込み権限を有効にする.
-
-add
-$ git add [filename]
+グループ書き
+git add [filename]
 ファイルやディレクトリをインデックスに登録.
 
 $ git add -A
 すべての変更を含むワークツリーの内容をインデックスに追加.
 
-$ git add -u
+$ git
+いつも人が混んでいるようです。
 以前コミットしたことがあるファイルだけインデックスに追加.
 
 commit
